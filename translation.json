@@ -1,3 +1,12 @@
 {
-    "locale": ["en", "ar", "de"]
+    "locale": [{
+        "languageCode": "en",
+        "name": "English"
+    }, {
+        "languageCode": "de",
+        "name": "German"
+    }, {
+        "languageCode": "ar",
+        "name": "Arabic"
+    }]
 }
