@@ -1,6 +1,3 @@
 {
-    "hello_en": "Good morning!",
-    "hello_ca": "Bon dia!",
-    "signIn_en": "Sign in",
-    "signIn_ca": "ingressar"
+    "locale": ["en", "ar", "de"]
 }
