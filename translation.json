@@ -12,6 +12,12 @@
         }, {
             "languageCode": "sq",
             "name": "Albanian"
+        }, {
+            "languageCode": "af",
+            "name": "Afrikaans"
+        }, {
+            "languageCode": "ak",
+            "name": "Akan"
         }
 
     ]
