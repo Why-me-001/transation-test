@@ -15,6 +15,9 @@
         }, {
             "languageCode": "af",
             "name": "Afrikaans"
+        }, {
+            "languageCode": "ar_QA",
+            "name": "Arabic Qatar"
         }
 
     ]
